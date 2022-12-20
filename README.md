@@ -2,11 +2,11 @@
 
 In this project, I will be working in PowerBI to build various dashboards for an imaginary company called Atliq Hardware.
 
-The dataset called {gdb041, gdb056} is provided by Codebasics, an online programming learning platform. 'https://codebasics.io/'.
+gdb041.sql and gdb056.sql are large dataset and stored in Microsoft SQL Server Query File. They are provided by Codebasics, an online programming learning platform. 'https://codebasics.io/'.
 
 This project consists several parts:
 
-1. Import dataset to MySQL Database and connect MySQL Database to PowerBI. 
+1. Import dataset gdb041 and gdb056 to MySQL Database and connect MySQL Database to PowerBI. 
 
 2. Transform Data using Power Query Editor. (Creating a 'Date' table and merge tables.)
 
