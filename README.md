@@ -6,7 +6,7 @@ gdb041.sql and gdb056.sql are large dataset and stored in Microsoft SQL Server Q
 
 This project consists of several parts:
 
-1. Import dataset gdb041 and gdb056 to MySQL Database and connect MySQL Database to PowerBI. 
+1. Import dataset gdb041 and gdb056 into MySQL Database and connect MySQL Database to PowerBI. 
 
 2. Transform Data using Power Query Editor. (Creating a 'Date' table and merge tables.)
 
