@@ -2,7 +2,7 @@
 
 In this project, I will be working in PowerBI to build various business insights for an imaginary company called Atliq Hardware.
 
-gdb041.sql and gdb056.sql are large dataset and stored in Microsoft SQL Server Query File. They are provided by Codebasics, an online programming learning platform. 'https://codebasics.io/'.
+gdb041.sql and gdb056.sql are large dataset with two million rows and stored in Microsoft SQL Server Query File. They are provided by Codebasics, an online programming learning platform. 'https://codebasics.io/'.
 
 This project consists of several parts:
 
